@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+     {
+      "question": "Liquids that do not mix are said to be",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Immiscible",
+        "b": "Flammable",
+        "c": "Soluble",
+        "d": "Miscible"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Immiscible liquids do not mix to form a homogeneous solution.",
+        "b": "Flammability is unrelated to miscibility.",
+        "c": "Solubility refers to solutes, not mixing of liquids.",
+        "d": "Miscible means the liquids mix, which is the opposite of the question."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The organic liquids which decompose at the boiling point are separated by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Steam distillation",
+        "b": "Fractional distillation",
+        "c": "None of these",
+        "d": "Distillation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Steam distillation allows separation below the decomposition temperature.",
+        "b": "Fractional distillation is used for miscible liquids with close boiling points.",
+        "c": "Not a valid answer.",
+        "d": "General distillation doesn't help with decomposition."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
