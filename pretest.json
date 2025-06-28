@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+     {
+      "question": "Liquids that do not mix are said to be",
+      "answers": {
+        "a": "Immiscible",
+        "b": "Flammable",
+        "c": "Soluble",
+        "d": "Miscible"
+      },
+      "explanations": {
+        "a": "Correct. Immiscible liquids do not mix to form a homogeneous solution.",
+        "b": "Flammability is unrelated to miscibility.",
+        "c": "Solubility refers to solutes, not mixing of liquids.",
+        "d": "Miscible means the liquids mix, which is the opposite of the question."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The organic liquids which decompose at the boiling point are separated by",
+      "answers": {
+        "a": "Steam distillation",
+        "b": "Fractional distillation",
+        "c": "None of these",
+        "d": "Distillation"
+      },
+      "explanations": {
+        "a": "Correct. Steam distillation allows separation below the decomposition temperature.",
+        "b": "Fractional distillation is used for miscible liquids with close boiling points.",
+        "c": "Not a valid answer.",
+        "d": "General distillation doesn't help with decomposition."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
