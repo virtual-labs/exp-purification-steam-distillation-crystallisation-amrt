@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+     {
+      "question": "Liquids that do not mix are said to be",
+      "answers": {
+        "a": "Immiscible",
+        "b": "Flammable",
+        "c": "Soluble",
+        "d": "Miscible"
+      },
+      "explanations": {
+        "a": "Correct. Immiscible liquids do not mix to form a homogeneous solution.",
+        "b": "Flammability is unrelated to miscibility.",
+        "c": "Solubility refers to solutes, not mixing of liquids.",
+        "d": "Miscible means the liquids mix, which is the opposite of the question."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The organic liquids which decompose at the boiling point are separated by",
+      "answers": {
+        "a": "Steam distillation",
+        "b": "Fractional distillation",
+        "c": "None of these",
+        "d": "Distillation"
+      },
+      "explanations": {
+        "a": "Correct. Steam distillation allows separation below the decomposition temperature.",
+        "b": "Fractional distillation is used for miscible liquids with close boiling points.",
+        "c": "Not a valid answer.",
+        "d": "General distillation doesn't help with decomposition."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If one compares compound A composed of non polar molecules with compound B composed of polar molecules, and both molecules have the same molecular formula then it is true that:",
+      "answers": {
+        "a": "Both compounds have the same boiling point",
+        "b": "B will not boil",
+        "c": "B boils at a lower temperature than A",
+        "d": "A boils at a lower temperature than B"
+      },
+      "explanations": {
+        "a": "Incorrect. Polarity affects boiling point.",
+        "b": "Incorrect. All liquids boil at some temperature.",
+        "c": "Incorrect. Polar molecules usually have higher boiling points.",
+        "d": "Correct. Non-polar A boils at a lower temperature than polar B."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "For which of the following mixtures would steam distillation be the most appropriate method of separation?",
+      "answers": {
+        "a": "Carbon tetra chloride & Toluene",
+        "b": "Benzene & Toluene",
+        "c": "Aniline & Water",
+        "d": "Methanol & Water"
+      },
+      "explanations": {
+        "a": "Incorrect. These are miscible and non-decomposing.",
+        "b": "Incorrect. These are miscible and have close boiling points.",
+        "c": "Correct. Aniline is steam distillable and immiscible with water.",
+        "d": "Incorrect. Methanol and water form an azeotrope, not suitable for steam distillation."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In the distillation apparatus shown, what are the parts labeled A & B?",
+      "answers": {
+        "a": "A = Funnel, B = Thermometer",
+        "b": "A = Liebig condenser, B = Flask",
+        "c": "A = Liebig condenser, B = Thermometer",
+        "d": "A = Thermometer, B = Funnel"
+      },
+      "explanations": {
+        "a": "Incorrect pairing of components.",
+        "b": "Incorrect. The condenser is not directly labeled with the flask.",
+        "c": "Correct. Common labeling in apparatus setups.",
+        "d": "Incorrect. Thermometer is not labeled as A typically."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
